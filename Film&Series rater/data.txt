@@ -1,0 +1,9 @@
+d name length genre title_episode season
+1 Batman 120 action
+3 The_Hobbit 124 drama
+4 Stranger_Things 45 thriller the_Beginning 1
+5 Roma 90 drama
+6 The_Chosen 51 drama the_beginning 1
+17 Inception 125 thriller
+18 Stranger_Things 47 thriller the_house 1
+22 The_Chosen 58 drama the_call 2
