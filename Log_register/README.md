@@ -1,0 +1,1 @@
+This program reads the txt file, sorts it using different methods (including bubble sort, quick sort and heap sort), shows a range of data (specific dates, times or most repeated ip adresses) and implements different data structures to save the log struct such as binary search tree (Evidence 3) or Doubly Linked List (evidence 2). 
