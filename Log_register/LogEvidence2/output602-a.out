@@ -1,0 +1,258 @@
+2023 03 05 22:40:07 10.14.111.111  Unencrypted communication
+2023 04 30 17:14:31 10.14.111.126  Social engineering attacks
+2023 06 09 06:20:44 10.14.111.129  Application error
+2023 03 16 16:36:42 10.14.111.136  Load balancing issues
+2023 05 20 19:54:51 10.14.111.139  Unencrypted communication
+2023 04 11 15:13:35 10.14.111.148  Weak or easily guessable passwords
+2022 10 28 04:36:13 10.14.111.158  Load balancing issues
+2023 03 20 18:45:56 10.14.111.159  Configuration errors
+2022 08 12 05:26:04 10.14.111.177  Load balancing issues
+2023 06 12 09:44:22 10.14.111.186  Human error
+2022 09 27 15:17:37 10.14.111.191  Data corruption
+2022 09 25 12:43:30 10.14.111.199  Network connectivity issues
+2023 03 07 10:02:56 10.14.111.204  Unencrypted communication
+2023 07 16 20:13:45 10.14.111.215  Security breaches
+2022 02 15 06:21:48 10.14.111.216  Human error
+2023 04 19 17:15:32 10.14.111.222  Application error
+2023 08 23 09:53:27 10.14.111.229  Data corruption
+2023 07 23 13:50:34 10.14.111.233  Security breaches
+2022 12 07 17:21:59 10.14.111.241  Configuration errors
+2022 12 05 00:17:00 10.14.112.1  Unencrypted communication
+2022 07 04 06:16:09 10.14.112.2  Weak or easily guessable passwords
+2022 11 06 05:50:01 10.14.112.7  Load balancing issues
+2023 05 13 02:55:35 10.14.112.24  Network connectivity issues
+2023 08 11 09:15:02 10.14.112.30  Network connectivity issues
+2023 02 10 23:32:18 10.14.112.36  Weak or easily guessable passwords
+2023 05 26 19:06:08 10.14.112.40  Security breaches
+2023 05 23 22:49:48 10.14.112.47  Security breaches
+2022 04 17 11:50:33 10.14.112.86  Human error
+2023 08 04 10:43:34 10.14.112.96  Load balancing issues
+2022 11 13 02:37:13 10.14.112.111  Data corruption
+2023 04 21 21:01:36 10.14.112.114  SQL injection
+2023 05 09 15:53:30 10.14.112.118  Social engineering attacks
+2023 06 25 08:05:32 10.14.112.123  SQL injection
+2022 06 18 02:33:47 10.14.112.130  Unencrypted communication
+2023 01 02 22:58:11 10.14.112.157  Broken authentication and session management
+2023 07 26 10:40:57 10.14.112.158  Human error
+2023 06 27 12:01:01 10.14.112.161  Network connectivity issues
+2022 03 19 08:58:43 10.14.112.162  Configuration errors
+2022 10 15 02:21:23 10.14.112.170  Security breaches
+2023 05 12 08:20:40 10.14.112.176  Weak or easily guessable passwords
+2023 01 16 06:55:04 10.14.112.177  Configuration errors
+2022 04 07 17:00:40 10.14.112.189  Application error
+2023 03 18 08:13:21 10.14.112.208  Security breaches
+2022 12 02 04:52:20 10.14.112.223  SQL injection
+2023 04 14 17:51:49 10.14.112.234  Weak or easily guessable passwords
+2022 07 13 21:46:09 10.14.112.249  Unencrypted communication
+2022 07 07 18:06:48 10.14.113.22  Broken authentication and session management
+2023 01 13 18:50:19 10.14.113.28  Data corruption
+2023 04 04 09:52:45 10.14.113.33  Load balancing issues
+2022 12 29 20:13:44 10.14.113.35  Weak or easily guessable passwords
+2023 07 01 04:37:31 10.14.113.39  Network connectivity issues
+2023 08 15 04:26:35 10.14.113.49  Configuration errors
+2023 03 21 06:39:43 10.14.113.54  Human error
+2023 05 27 14:23:53 10.14.113.58  Network connectivity issues
+2022 11 06 16:37:49 10.14.113.71  Social engineering attacks
+2022 06 10 14:46:38 10.14.113.87  Network connectivity issues
+2022 11 03 12:23:54 10.14.113.113  Load balancing issues
+2022 11 22 00:01:02 10.14.113.141  Data corruption
+2023 07 14 21:20:57 10.14.113.145  Security breaches
+2023 07 03 04:51:06 10.14.113.153  Security breaches
+2023 07 28 03:11:28 10.14.113.165  Human error
+2022 06 16 12:46:54 10.14.113.172  Unencrypted communication
+2023 05 29 09:31:53 10.14.113.186  Security breaches
+2022 12 05 21:43:07 10.14.113.189  SQL injection
+2023 04 02 11:47:27 10.14.113.190  Load balancing issues
+2023 07 17 19:44:04 10.14.113.199  Weak or easily guessable passwords
+2023 05 19 17:29:59 10.14.113.208  Load balancing issues
+2023 01 13 00:39:47 10.14.113.209  Social engineering attacks
+2022 03 27 18:53:04 10.14.113.213  Human error
+2022 09 22 17:32:57 10.14.113.213  Human error
+2023 02 16 05:37:27 10.14.113.220  Weak or easily guessable passwords
+2023 03 14 09:52:44 10.14.114.7  Network connectivity issues
+2023 01 06 10:44:31 10.14.114.20  Human error
+2022 10 10 08:10:43 10.14.114.31  Security breaches
+2023 02 03 17:12:39 10.14.114.65  SQL injection
+2022 06 18 07:34:22 10.14.114.71  Load balancing issues
+2023 03 28 10:54:40 10.14.114.81  Unencrypted communication
+2023 04 08 14:47:54 10.14.114.88  Application error
+2022 02 04 10:53:06 10.14.114.93  Human error
+2022 03 31 04:52:38 10.14.114.94  Unencrypted communication
+2023 05 25 12:22:58 10.14.114.96  Network connectivity issues
+2023 03 19 10:55:54 10.14.114.124  Unencrypted communication
+2022 04 05 22:47:08 10.14.114.130  Configuration errors
+2023 01 01 07:36:07 10.14.114.146  Weak or easily guessable passwords
+2022 11 06 21:40:00 10.14.114.151  Weak or easily guessable passwords
+2022 06 26 05:41:53 10.14.114.152  Human error
+2022 02 19 04:49:30 10.14.114.170  Load balancing issues
+2023 04 28 13:52:56 10.14.114.179  Human error
+2022 02 07 00:25:27 10.14.114.180  Security breaches
+2023 06 12 19:01:37 10.14.114.185  Human error
+2023 07 30 06:24:22 10.14.114.191  Human error
+2023 07 22 10:44:48 10.14.114.209  Network connectivity issues
+2023 06 25 08:05:57 10.14.114.220  Load balancing issues
+2022 06 18 15:23:12 10.14.114.228  Unencrypted communication
+2023 06 02 18:24:05 10.14.114.229  Security breaches
+2023 04 26 00:18:50 10.14.114.237  Unencrypted communication
+2023 03 26 11:13:42 10.14.114.239  Data corruption
+2023 04 22 23:45:58 10.14.115.1  Weak or easily guessable passwords
+2022 05 28 21:01:56 10.14.115.9  Unencrypted communication
+2023 04 13 03:28:34 10.14.115.11  Load balancing issues
+2022 05 16 00:21:21 10.14.115.24  Human error
+2022 11 30 23:13:29 10.14.115.24  Security breaches
+2022 05 22 10:05:20 10.14.115.27  SQL injection
+2022 05 17 05:04:09 10.14.115.33  Security breaches
+2023 08 15 04:06:11 10.14.115.33  Application error
+2022 11 30 19:40:38 10.14.115.36  Network connectivity issues
+2022 01 30 00:29:09 10.14.115.39  Application error
+2023 01 24 12:54:50 10.14.115.54  Weak or easily guessable passwords
+2023 07 05 08:35:25 10.14.115.76  Security breaches
+2023 01 22 06:29:50 10.14.115.78  Human error
+2023 08 04 07:48:40 10.14.115.83  Network connectivity issues
+2022 04 02 17:58:39 10.14.115.86  Weak or easily guessable passwords
+2022 05 22 08:11:23 10.14.115.91  Social engineering attacks
+2022 01 07 19:13:45 10.14.115.94  SQL injection
+2022 07 14 08:00:19 10.14.115.97  Weak or easily guessable passwords
+2022 11 07 02:28:08 10.14.115.115  Data corruption
+2022 11 22 22:17:55 10.14.115.118  Configuration errors
+2022 04 20 08:58:10 10.14.115.126  Weak or easily guessable passwords
+2022 12 28 02:39:21 10.14.115.130  Social engineering attacks
+2022 05 29 08:35:23 10.14.115.133  Unencrypted communication
+2022 05 21 15:04:51 10.14.115.156  Social engineering attacks
+2023 08 22 00:20:58 10.14.115.175  Social engineering attacks
+2022 05 21 07:35:08 10.14.115.179  Human error
+2023 02 08 16:35:33 10.14.115.190  Data corruption
+2022 04 29 09:38:40 10.14.115.200  Application error
+2023 02 14 23:45:23 10.14.115.207  Application error
+2022 01 12 01:37:25 10.14.115.211  Security breaches
+2022 06 05 01:35:00 10.14.115.217  Configuration errors
+2023 03 24 01:11:20 10.14.115.217  Data corruption
+2023 01 11 23:23:25 10.14.115.221  Security breaches
+2022 11 17 01:59:28 10.14.115.238  Weak or easily guessable passwords
+2023 01 02 02:45:58 10.14.115.238  SQL injection
+2022 01 29 19:12:19 10.14.115.243  Social engineering attacks
+2022 05 28 03:06:50 10.14.115.250  Data corruption
+2023 06 23 11:13:49 10.14.115.252  Weak or easily guessable passwords
+2022 02 22 09:37:45 10.14.116.5  SQL injection
+2022 12 12 13:03:18 10.14.116.11  Weak or easily guessable passwords
+2023 01 02 19:04:45 10.14.116.16  Unencrypted communication
+2022 03 01 18:25:24 10.14.116.29  Application error
+2023 07 14 08:07:14 10.14.116.30  Application error
+2023 05 28 02:17:21 10.14.116.33  Configuration errors
+2023 06 29 11:06:21 10.14.116.40  Network connectivity issues
+2023 08 14 08:54:03 10.14.116.42  Human error
+2022 04 24 11:31:56 10.14.116.51  Security breaches
+2022 10 21 06:30:09 10.14.116.74  Network connectivity issues
+2023 01 19 13:28:03 10.14.116.89  Load balancing issues
+2022 04 12 12:24:00 10.14.116.114  Security breaches
+2022 03 07 01:09:44 10.14.116.121  Security breaches
+2022 05 16 00:50:48 10.14.116.161  Application error
+2022 07 05 17:40:42 10.14.116.169  Load balancing issues
+2023 06 25 21:48:21 10.14.116.169  Broken authentication and session management
+2022 12 14 09:39:45 10.14.116.170  Data corruption
+2022 06 25 04:48:40 10.14.116.180  Load balancing issues
+2023 06 02 23:31:14 10.14.116.209  Data corruption
+2022 01 11 01:14:36 10.14.116.213  Network connectivity issues
+2023 02 13 06:55:02 10.14.116.215  Application error
+2023 01 28 10:05:12 10.14.116.228  Application error
+2022 08 06 07:15:49 10.14.116.231  Security breaches
+2022 08 18 19:06:52 10.14.116.234  Security breaches
+2022 07 05 04:03:01 10.14.116.237  Configuration errors
+2022 10 05 14:24:30 10.14.116.237  Security breaches
+2023 03 09 10:01:58 10.14.116.244  Application error
+2023 07 03 12:00:04 10.14.117.8  Configuration errors
+2022 04 21 05:52:03 10.14.117.9  SQL injection
+2022 10 02 06:57:29 10.14.117.19  Weak or easily guessable passwords
+2023 01 30 06:52:09 10.14.117.24  Application error
+2023 01 23 17:58:54 10.14.117.36  Network connectivity issues
+2023 07 30 03:21:55 10.14.117.45  Weak or easily guessable passwords
+2023 01 26 11:10:48 10.14.117.46  Weak or easily guessable passwords
+2023 04 10 22:42:24 10.14.117.48  SQL injection
+2023 03 05 19:07:09 10.14.117.51  SQL injection
+2022 02 10 20:20:29 10.14.117.52  Unencrypted communication
+2022 09 02 13:35:19 10.14.117.52  Unencrypted communication
+2022 07 11 00:05:42 10.14.117.56  Configuration errors
+2023 02 08 23:50:14 10.14.117.56  Load balancing issues
+2023 06 10 11:50:33 10.14.117.59  Configuration errors
+2023 08 01 04:11:00 10.14.117.60  SQL injection
+2022 11 17 17:23:26 10.14.117.63  Network connectivity issues
+2022 11 28 00:58:36 10.14.117.71  Unencrypted communication
+2022 01 02 22:12:51 10.14.117.87  Network connectivity issues
+2022 03 16 18:42:27 10.14.117.92  Broken authentication and session management
+2022 02 24 04:36:15 10.14.117.96  Load balancing issues
+2022 12 28 22:45:15 10.14.117.119  Data corruption
+2023 03 04 07:30:53 10.14.117.122  Social engineering attacks
+2022 03 11 08:31:42 10.14.117.130  Data corruption
+2022 08 14 18:02:20 10.14.117.133  Application error
+2022 06 24 05:25:06 10.14.117.160  Load balancing issues
+2023 02 26 09:34:16 10.14.117.164  Configuration errors
+2022 03 16 01:39:26 10.14.117.166  Configuration errors
+2023 01 06 18:40:32 10.14.117.168  Unencrypted communication
+2022 01 05 20:07:40 10.14.117.195  Human error
+2023 06 23 15:54:56 10.14.117.209  Load balancing issues
+2022 06 28 16:16:30 10.14.117.216  Social engineering attacks
+2023 06 11 01:47:59 10.14.117.219  Network connectivity issues
+2022 12 30 15:02:24 10.14.117.221  Unencrypted communication
+2022 02 07 12:52:50 10.14.117.227  SQL injection
+2022 11 24 08:26:06 10.14.117.246  Human error
+2023 02 08 13:55:54 10.14.117.247  Human error
+2022 12 13 06:23:48 10.14.118.3  Load balancing issues
+2022 01 22 12:27:30 10.14.118.17  Load balancing issues
+2022 01 18 09:23:07 10.14.118.31  Application error
+2022 01 05 18:10:06 10.14.118.37  Load balancing issues
+2022 10 01 17:00:26 10.14.118.39  Broken authentication and session management
+2022 12 08 00:20:13 10.14.118.70  Unencrypted communication
+2022 05 04 06:59:58 10.14.118.107  Unencrypted communication
+2022 11 19 02:02:46 10.14.118.111  Broken authentication and session management
+2023 06 26 18:17:27 10.14.118.126  Broken authentication and session management
+2023 03 07 16:14:05 10.14.118.129  Data corruption
+2022 07 15 20:49:25 10.14.118.140  Security breaches
+2023 01 11 08:47:19 10.14.118.161  Weak or easily guessable passwords
+2023 08 21 22:52:02 10.14.118.168  Network connectivity issues
+2023 04 09 01:05:44 10.14.118.173  Data corruption
+2022 12 10 01:54:54 10.14.118.180  Configuration errors
+2022 07 28 08:22:06 10.14.118.196  Social engineering attacks
+2022 06 05 12:17:00 10.14.118.209  Broken authentication and session management
+2023 01 05 16:07:32 10.14.118.214  SQL injection
+2022 01 18 02:21:51 10.14.118.224  Broken authentication and session management
+2023 04 17 04:03:48 10.14.118.252  Network connectivity issues
+2022 05 26 23:16:51 10.14.119.2  Human error
+2022 02 11 00:20:41 10.14.119.15  Human error
+2023 02 20 06:55:34 10.14.119.20  SQL injection
+2022 02 03 09:10:35 10.14.119.22  Weak or easily guessable passwords
+2022 05 25 07:03:58 10.14.119.48  Application error
+2023 06 08 01:43:51 10.14.119.60  Social engineering attacks
+2022 11 07 16:49:07 10.14.119.105  Data corruption
+2023 06 08 00:39:15 10.14.119.121  Broken authentication and session management
+2022 01 02 04:22:45 10.14.119.134  Application error
+2023 04 03 05:03:31 10.14.119.138  Security breaches
+2022 07 06 12:15:07 10.14.119.152  Load balancing issues
+2023 07 03 01:44:03 10.14.119.153  Social engineering attacks
+2022 12 25 00:09:39 10.14.119.155  Data corruption
+2022 03 09 12:37:03 10.14.119.166  Human error
+2023 02 06 09:48:22 10.14.119.175  Configuration errors
+2023 03 27 16:42:16 10.14.119.209  Broken authentication and session management
+2022 02 07 21:03:25 10.14.119.215  Load balancing issues
+2023 07 06 05:24:10 10.14.119.215  Data corruption
+2022 01 29 14:14:28 10.14.119.222  Configuration errors
+2022 11 19 18:47:27 10.14.119.228  Human error
+2023 03 15 15:25:04 10.14.119.239  Security breaches
+2022 11 17 05:49:50 10.14.119.244  Social engineering attacks
+2022 08 17 05:07:00 10.14.120.8  Human error
+2022 06 06 22:28:45 10.14.120.18  Configuration errors
+2022 10 04 22:44:38 10.14.120.31  Unencrypted communication
+2022 06 15 12:39:21 10.14.120.37  Load balancing issues
+2023 01 08 17:18:01 10.14.120.46  Unencrypted communication
+2022 03 22 13:02:18 10.14.120.48  Social engineering attacks
+2023 02 08 12:19:03 10.14.120.52  Social engineering attacks
+2023 03 04 05:06:32 10.14.120.68  SQL injection
+2023 07 10 09:09:28 10.14.120.70  Weak or easily guessable passwords
+2023 07 09 06:55:30 10.14.120.80  SQL injection
+2023 01 21 11:31:58 10.14.120.100  Security breaches
+2023 06 03 06:30:31 10.14.120.117  Social engineering attacks
+2023 05 19 08:39:14 10.14.120.139  Unencrypted communication
+2023 01 30 17:32:35 10.14.120.152  Social engineering attacks
+2022 02 16 06:55:45 10.14.120.154  Weak or easily guessable passwords
+2023 08 06 19:30:13 10.14.120.173  Configuration errors
+2022 03 11 16:24:16 10.14.120.207  Broken authentication and session management
+2023 01 08 05:16:52 10.14.120.230  SQL injection
