@@ -1,2 +1,2 @@
 # Cpp_projects
- Cpp school projects. Includes sorting alghoritms, data structures and other functions.
+ Cpp school projects that use data structures and different alghoritms.
