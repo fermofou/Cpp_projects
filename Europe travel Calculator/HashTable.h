@@ -32,7 +32,7 @@ int HashTable<T>::hash(string data){
     for (char ch : data) {
         hashValue += static_cast<int>(ch);
     }
-    return hashValue % 81;
+    return hashValue % table.size()-1;
 
 }
 
@@ -40,22 +40,33 @@ template <class T>
 void HashTable<T>::insert(string data) {
     int check = findData(data);
     if (check != -1) {
-        return; // Data already in table
+        return; 
     } else {
         int index = hash(data);
         int og = index;
-        
-        while (table[index] != "") {
-            index = (index + 1) % 82; // Adjust the size if needed
-            if (index == og) {
-                // Handle the case where the table is full
-                throw overflow_error("HashTable is full");
+
+        if (table[index] != "") {
+            int newSize = table.size() + 1;
+            vector<string> newTable(newSize, "");
+            for (const string& existingData : table) {
+                if (existingData != "") {
+                    int newIndex = hash(existingData) % newSize;
+                    while (newTable[newIndex] != "") {
+                        newIndex = (newIndex + 1) % newSize;
+                    }
+                    newTable[newIndex] = existingData;
+                }
             }
+            index = hash(data) % newSize;
+            while (newTable[index] != "") {
+                index = (index + 1) % newSize;
+            }
+            table = newTable;
         }
         table[index] = data;
-        // cout << data << " inserted at index " << index << endl;
     }
 }
+
 
 
 template <class T>  
